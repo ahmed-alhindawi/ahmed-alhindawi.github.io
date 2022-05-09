@@ -28,7 +28,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hello, I'm Ahmed. 
-  hero__description: 'I'm an Intensive Care Doctor at London, an NIHR Academic Clinical Fellow at UCL and a PhD Student at Imperial College London. My research interests are in broadly in novel biological sensing for the measurement and assistance of intensive care patients. I'm particularly interested in neuro-cognitive disorders of intensive care patients including delirium and critical-care weakness. Read more about my <a href="research">research</a>, <a href="teaching">teaching</a> or <a href="contact">get in touch</a>.'
+  hero__description: "I'm an Intensive Care Doctor at London, an NIHR Academic Clinical Fellow at UCL and a PhD Student at Imperial College London. My research interests are in broadly in novel biological sensing for the measurement and assistance of intensive care patients. I'm particularly interested in neuro-cognitive disorders of intensive care patients including delirium and critical-care weakness. Read more about my <a href="research">research</a>, <a href="teaching">teaching</a> or <a href="contact">get in touch</a>."
 
 
 #-------------------------------
@@ -116,4 +116,4 @@ contact:
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+# google-analytics: # Add your identifier. For example UA-99631805-1.
